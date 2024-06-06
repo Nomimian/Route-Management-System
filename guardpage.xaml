@@ -1,0 +1,61 @@
+﻿<Page x:Class="Project_one_EAD.guardpage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:Project_one_EAD"
+      mc:Ignorable="d"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="guardpage">
+
+    <Grid>
+        <!-- Header TextBlock -->
+        <TextBlock Text="IN OUT TIMING" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Background="#E8F0FF" Foreground="LightSkyBlue" Margin="0,20,0,0"/>
+
+        <!-- DataGrid to Display Entries -->
+        <DataGrid Name="mygrid" AutoGenerateColumns="False" Margin="0,80,0,0" Background="#E8F0FF" BorderBrush="SkyBlue" BorderThickness="1" SelectionChanged="mygrid_SelectionChanged">
+            <DataGrid.Resources>
+                <!-- Style for ScrollBar -->
+                <Style TargetType="{x:Type ScrollBar}">
+                    <Setter Property="Foreground" Value="LightSkyBlue" />
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.ColumnHeaderStyle>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="LightSkyBlue" />
+                    <Setter Property="Foreground" Value="White" />
+                    <Setter Property="FontSize" Value="16" />
+                    <Setter Property="FontWeight" Value="Bold" />
+                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                    <Setter Property="Padding" Value="10"/>
+                    <Setter Property="BorderBrush" Value="White"/>
+                    <Setter Property="BorderThickness" Value="0,0,1,1"/>
+                </Style>
+            </DataGrid.ColumnHeaderStyle>
+            <DataGrid.Columns>
+                <!-- DataGrid Columns -->
+                <DataGridTextColumn Width="*" Header="Entry ID" Binding="{Binding CheckInID}" />
+                <DataGridTextColumn Width="*" Header="Vehicle ID" Binding="{Binding VehicleID}" />
+                <DataGridTextColumn Width="*" Header="Entry Date Time" Binding="{Binding CheckInTime}" />
+                <DataGridTextColumn Width="*" Header="Exit Date Time" Binding="{Binding CheckOutTime}" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Admin Registration Form -->
+        <Grid x:Name="Mygrid" Margin="0,250,0,0" Background="#E8F0FF" VerticalAlignment="Bottom">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+
+            <!-- Labels and ComboBox for Vehicle Plate -->
+            <Label Content="Vehicle No Plate" FontWeight="Bold"  HorizontalAlignment="Left" VerticalAlignment="Top" Height="28" Width="138"/>
+            <ComboBox x:Name="cmbVehicleNoPlate" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Background="White" Margin="110,0"/>
+
+            <!-- Buttons for In and Out actions -->
+            <Button Grid.Column="1" Content="In" Click="InBtn_Click" HorizontalAlignment="Right" VerticalAlignment="Top" Width="60" Background="#4CAF50" Foreground="White" Margin="10,0"/>
+            <Button Grid.Column="2" Content="Out" Click="OutBtn_Click" HorizontalAlignment="Right" VerticalAlignment="Top" Width="60" Background="#F44336" Foreground="White" Margin="10,0"/>
+        </Grid>
+    </Grid>
+</Page>

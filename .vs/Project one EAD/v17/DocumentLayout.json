@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project one EAD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\add_admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:add_admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\add_gurd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:add_gurd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\superadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:superadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\loinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:loinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\add_admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:add_admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\guardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:guardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\add_gurd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:add_gurd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\loinpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:loinpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\edit_admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:edit_admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\editgurd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:editgurd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\report.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:report.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\register_vehicle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:register_vehicle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\editvehiclepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:editvehiclepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\register_vehicle.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:register_vehicle.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\project1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:project1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\guardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:guardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|d:\\project one ead\\editvehiclepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40BC7E0-D95F-4A1F-BD87-3305FAD3CA24}|Project1.csproj|solutionrelative:editvehiclepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "report.xaml.cs",
+              "DocumentMoniker": "D:\\Project one EAD\\report.xaml.cs",
+              "RelativeDocumentMoniker": "report.xaml.cs",
+              "ToolTip": "D:\\Project one EAD\\report.xaml.cs",
+              "RelativeToolTip": "report.xaml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T06:22:47.06Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Project one EAD\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\Project one EAD\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-20T12:57:16.809Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.xaml.cs",
+              "DocumentMoniker": "D:\\Project one EAD\\Admin.xaml.cs",
+              "RelativeDocumentMoniker": "Admin.xaml.cs",
+              "ToolTip": "D:\\Project one EAD\\Admin.xaml.cs",
+              "RelativeToolTip": "Admin.xaml.cs",
+              "ViewState": "AQIAAI4AAACAZmZmZuYZwK0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:41:50.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add_Admin.xaml.cs",
+              "DocumentMoniker": "D:\\Project one EAD\\Add_Admin.xaml.cs",
+              "RelativeDocumentMoniker": "Add_Admin.xaml.cs",
+              "ToolTip": "D:\\Project one EAD\\Add_Admin.xaml.cs",
+              "RelativeToolTip": "Add_Admin.xaml.cs",
+              "ViewState": "AQIAAAwAAACAl5mZmZkVwBgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:33:38.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "report.xaml",
+              "DocumentMoniker": "D:\\Project one EAD\\report.xaml",
+              "RelativeDocumentMoniker": "report.xaml",
+              "ToolTip": "D:\\Project one EAD\\report.xaml",
+              "RelativeToolTip": "report.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T03:53:16.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add_Gurd.xaml.cs",
+              "DocumentMoniker": "D:\\Project one EAD\\Add_Gurd.xaml.cs",
+              "RelativeDocumentMoniker": "Add_Gurd.xaml.cs",
+              "ToolTip": "D:\\Project one EAD\\Add_Gurd.xaml.cs",
+              "RelativeToolTip": "Add_Gurd.xaml.cs",
+              "ViewState": "AQIAAB8AAAAASDMzMzPzvycAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:35:00.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "D:\\Project one EAD\\Admin.xaml",
+              "RelativeDocumentMoniker": "Admin.xaml",
+              "ToolTip": "D:\\Project one EAD\\Admin.xaml",
+              "RelativeToolTip": "Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-20T12:57:22.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuperAdmin.xaml",
+              "DocumentMoniker": "D:\\Project one EAD\\SuperAdmin.xaml",
+              "RelativeDocumentMoniker": "SuperAdmin.xaml",
+              "ToolTip": "D:\\Project one EAD\\SuperAdmin.xaml",
+              "RelativeToolTip": "SuperAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-23T06:56:01.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EditVehiclePage.xaml.cs",
+              "DocumentMoniker": "D:\\Project one EAD\\EditVehiclePage.xaml.cs",
+              "RelativeDocumentMoniker": "EditVehiclePage.xaml.cs",
+              "ToolTip": "D:\\Project one EAD\\EditVehiclePage.xaml.cs",
+              "RelativeToolTip": "EditVehiclePage.xaml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T08:15:06.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "loinpage.xaml.cs",
+              "DocumentMoniker": "D:\\Project one EAD\\loinpage.xaml.cs",
+              "RelativeDocumentMoniker": "loinpage.xaml.cs",
+              "ToolTip": "D:\\Project one EAD\\loinpage.xaml.cs",
+              "RelativeToolTip": "loinpage.xaml.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T11:50:22.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Add_Admin.xaml",
+              "DocumentMoniker": "D:\\Project one EAD\\Add_Admin.xaml",
+              "RelativeDocumentMoniker": "Add_Admin.xaml",
+              "ToolTip": "D:\\Project one EAD\\Add_Admin.xaml",
+              "RelativeToolTip": "Add_Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T13:02:52.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit_Admin.xaml",
+              "DocumentMoniker": "D:\\Project one EAD\\Edit_Admin.xaml",
+              "RelativeDocumentMoniker": "Edit_Admin.xaml",
+              "ToolTip": "D:\\Project one EAD\\Edit_Admin.xaml",
+              "RelativeToolTip": "Edit_Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T13:17:46.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "register_vehicle.xaml.cs",
+              "DocumentMoniker": "D:\\Project one EAD\\register_vehicle.xaml.cs",
+              "RelativeDocumentMoniker": "register_vehicle.xaml.cs",
+              "ToolTip": "D:\\Project one EAD\\register_vehicle.xaml.cs",
+              "RelativeToolTip": "register_vehicle.xaml.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAwwFAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:19:18.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "editgurd.xaml",
+              "DocumentMoniker": "D:\\Project one EAD\\editgurd.xaml",
+              "RelativeDocumentMoniker": "editgurd.xaml",
+              "ToolTip": "D:\\Project one EAD\\editgurd.xaml",
+              "RelativeToolTip": "editgurd.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T07:14:14.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditVehiclePage.xaml",
+              "DocumentMoniker": "D:\\Project one EAD\\EditVehiclePage.xaml",
+              "RelativeDocumentMoniker": "EditVehiclePage.xaml",
+              "ToolTip": "D:\\Project one EAD\\EditVehiclePage.xaml",
+              "RelativeToolTip": "EditVehiclePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T13:38:23.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "register_vehicle.xaml",
+              "DocumentMoniker": "D:\\Project one EAD\\register_vehicle.xaml",
+              "RelativeDocumentMoniker": "register_vehicle.xaml",
+              "ToolTip": "D:\\Project one EAD\\register_vehicle.xaml",
+              "RelativeToolTip": "register_vehicle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-23T13:02:16.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Add_Gurd.xaml",
+              "DocumentMoniker": "D:\\Project one EAD\\Add_Gurd.xaml",
+              "RelativeDocumentMoniker": "Add_Gurd.xaml",
+              "ToolTip": "D:\\Project one EAD\\Add_Gurd.xaml",
+              "RelativeToolTip": "Add_Gurd.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-23T12:35:01.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Project one EAD\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\Project one EAD\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:17:34.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "loinpage.xaml",
+              "DocumentMoniker": "D:\\Project one EAD\\loinpage.xaml",
+              "RelativeDocumentMoniker": "loinpage.xaml",
+              "ToolTip": "D:\\Project one EAD\\loinpage.xaml",
+              "RelativeToolTip": "loinpage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-23T06:45:49.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "guardpage.xaml.cs",
+              "DocumentMoniker": "D:\\Project one EAD\\guardpage.xaml.cs",
+              "RelativeDocumentMoniker": "guardpage.xaml.cs",
+              "ToolTip": "D:\\Project one EAD\\guardpage.xaml.cs",
+              "RelativeToolTip": "guardpage.xaml.cs",
+              "ViewState": "AQIAAFwBAAAAAAAAAAAUwG4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T12:37:31.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "guardpage.xaml",
+              "DocumentMoniker": "D:\\Project one EAD\\guardpage.xaml",
+              "RelativeDocumentMoniker": "guardpage.xaml",
+              "ToolTip": "D:\\Project one EAD\\guardpage.xaml",
+              "RelativeToolTip": "guardpage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-20T12:07:23.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Project1Context.cs",
+              "DocumentMoniker": "D:\\Project one EAD\\Project1Context.cs",
+              "RelativeDocumentMoniker": "Project1Context.cs",
+              "ToolTip": "D:\\Project one EAD\\Project1Context.cs",
+              "RelativeToolTip": "Project1Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T06:42:22.789Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

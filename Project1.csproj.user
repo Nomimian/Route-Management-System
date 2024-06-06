@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Add_Admin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Add_Gurd.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Admin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="editgurd.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EditVehiclePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Edit_Admin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="guardpage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="loinpage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="register_vehicle.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="report.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SuperAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Add_Admin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Add_Gurd.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Admin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="editgurd.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditVehiclePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Edit_Admin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="guardpage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="loinpage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="register_vehicle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="report.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SuperAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

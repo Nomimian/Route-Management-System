@@ -1,0 +1,200 @@
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Project1.exe
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Project1.deps.json
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Project1.runtimeconfig.json
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Project1.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Project1.pdb
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\Project1.csproj.AssemblyReference.cache
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\Add_Admin.g.cs
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\Add_Gurd.g.cs
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\Admin.g.cs
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\editgurd.g.cs
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\Edit_Admin.g.cs
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\guardpage.g.cs
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\loinpage.g.cs
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\register_vehicle.g.cs
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\SuperAdmin.g.cs
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\Project1_MarkupCompile.cache
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\Project1_MarkupCompile.lref
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\Add_Admin.baml
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\Add_Gurd.baml
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\Admin.baml
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\editgurd.baml
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\Edit_Admin.baml
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\guardpage.baml
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\loinpage.baml
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\register_vehicle.baml
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\SuperAdmin.baml
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\Project1.g.resources
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\Project1.AssemblyInfoInputs.cache
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\Project1.AssemblyInfo.cs
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\Project1.csproj.Up2Date
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\Project1.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\refint\Project1.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\Project1.pdb
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\Project1.genruntimeconfig.cache
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\ref\Project1.dll
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\report.g.cs
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\report.baml
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\EditVehiclePage.g.cs
+C:\Users\Sajawal Ali\Documents\Project one EAD\obj\Debug\net8.0-windows\EditVehiclePage.baml
+D:\Project one EAD\bin\Debug\net8.0-windows\Project1.exe
+D:\Project one EAD\bin\Debug\net8.0-windows\Project1.deps.json
+D:\Project one EAD\bin\Debug\net8.0-windows\Project1.runtimeconfig.json
+D:\Project one EAD\bin\Debug\net8.0-windows\Project1.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Project1.pdb
+D:\Project one EAD\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Project one EAD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Project one EAD\obj\Debug\net8.0-windows\Project1.csproj.AssemblyReference.cache
+D:\Project one EAD\obj\Debug\net8.0-windows\Add_Admin.g.cs
+D:\Project one EAD\obj\Debug\net8.0-windows\Add_Gurd.g.cs
+D:\Project one EAD\obj\Debug\net8.0-windows\Admin.g.cs
+D:\Project one EAD\obj\Debug\net8.0-windows\editgurd.g.cs
+D:\Project one EAD\obj\Debug\net8.0-windows\EditVehiclePage.g.cs
+D:\Project one EAD\obj\Debug\net8.0-windows\Edit_Admin.g.cs
+D:\Project one EAD\obj\Debug\net8.0-windows\guardpage.g.cs
+D:\Project one EAD\obj\Debug\net8.0-windows\loinpage.g.cs
+D:\Project one EAD\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Project one EAD\obj\Debug\net8.0-windows\register_vehicle.g.cs
+D:\Project one EAD\obj\Debug\net8.0-windows\report.g.cs
+D:\Project one EAD\obj\Debug\net8.0-windows\SuperAdmin.g.cs
+D:\Project one EAD\obj\Debug\net8.0-windows\App.g.cs
+D:\Project one EAD\obj\Debug\net8.0-windows\Project1_MarkupCompile.cache
+D:\Project one EAD\obj\Debug\net8.0-windows\Project1_MarkupCompile.lref
+D:\Project one EAD\obj\Debug\net8.0-windows\Add_Admin.baml
+D:\Project one EAD\obj\Debug\net8.0-windows\Add_Gurd.baml
+D:\Project one EAD\obj\Debug\net8.0-windows\Admin.baml
+D:\Project one EAD\obj\Debug\net8.0-windows\editgurd.baml
+D:\Project one EAD\obj\Debug\net8.0-windows\EditVehiclePage.baml
+D:\Project one EAD\obj\Debug\net8.0-windows\Edit_Admin.baml
+D:\Project one EAD\obj\Debug\net8.0-windows\guardpage.baml
+D:\Project one EAD\obj\Debug\net8.0-windows\loinpage.baml
+D:\Project one EAD\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Project one EAD\obj\Debug\net8.0-windows\register_vehicle.baml
+D:\Project one EAD\obj\Debug\net8.0-windows\report.baml
+D:\Project one EAD\obj\Debug\net8.0-windows\SuperAdmin.baml
+D:\Project one EAD\obj\Debug\net8.0-windows\Project1.g.resources
+D:\Project one EAD\obj\Debug\net8.0-windows\Project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project one EAD\obj\Debug\net8.0-windows\Project1.AssemblyInfoInputs.cache
+D:\Project one EAD\obj\Debug\net8.0-windows\Project1.AssemblyInfo.cs
+D:\Project one EAD\obj\Debug\net8.0-windows\Project1.csproj.CoreCompileInputs.cache
+D:\Project one EAD\obj\Debug\net8.0-windows\Project1.csproj.Up2Date
+D:\Project one EAD\obj\Debug\net8.0-windows\Project1.dll
+D:\Project one EAD\obj\Debug\net8.0-windows\refint\Project1.dll
+D:\Project one EAD\obj\Debug\net8.0-windows\Project1.pdb
+D:\Project one EAD\obj\Debug\net8.0-windows\Project1.genruntimeconfig.cache
+D:\Project one EAD\obj\Debug\net8.0-windows\ref\Project1.dll
